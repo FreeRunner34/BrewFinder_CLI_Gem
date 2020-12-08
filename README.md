@@ -15,9 +15,9 @@ git@github.com:FreeRunner34/BrewFinder_CLI_Gem.git
 
 you may need to install
 ‘httparty’
-'rubygems'
 ‘pry’
 
 to do this type gem install example in you terminal 
+note Pry is not required for this cli to work however i would advise installing it to make debugging the cli gem easier.
 
 the license for this code can be found on GitHub as the standard MIT license. 
