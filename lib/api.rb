@@ -18,6 +18,3 @@ class Brewfinder
         #binding.pry
     end 
 end  
-
-Brew_list = Brewfinder.new
-Brew_list.breweries
