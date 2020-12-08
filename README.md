@@ -9,7 +9,9 @@ This cli gem works with the https://api.openbrewerydb.org/breweries api to acces
 
 To Install this CLI Gem Fork and Clone the Git hub repo into you terminal 
 
-git hub repo link 
+--------------------------------------------------
+git@github.com:FreeRunner34/BrewFinder_CLI_Gem.git
+--------------------------------------------------
 
 you may need to install
 ‘httparty’
