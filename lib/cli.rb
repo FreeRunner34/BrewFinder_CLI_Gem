@@ -5,6 +5,9 @@ require_relative 'brewfinder.rb'
 class Cli
 
     def menu
+        
+        Brewfinder.new.breweries
+        
         puts "option 1: see a list of Breweries"
         #other options to be updated and created later. 
         # puts "option 2: search a Brewery by Name"
