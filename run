@@ -1,0 +1,4 @@
+#!/users//CLi_Project_2.0/bin/ruby 
+require_relative "../lib/cli.rb"
+
+Cli.new.menu 
