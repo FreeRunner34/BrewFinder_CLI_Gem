@@ -1,4 +1,4 @@
 #!/users//CLi_Project_2.0/bin/ruby 
-require_relative "../lib/cli.rb"
+require_relative "../config/environment.rb"
 
 Cli.new.menu 
