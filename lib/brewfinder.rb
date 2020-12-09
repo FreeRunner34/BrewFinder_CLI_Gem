@@ -27,7 +27,6 @@ class Brewery
   def self.count 
       @@all.size
   end 
-  #binding.pry
 end 
 
 # id
