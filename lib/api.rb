@@ -1,8 +1,3 @@
-require_relative 'brewfinder'
-require 'rubygems'
-require 'httparty'
-require 'pry'
-
 #https://api.openbrewerydb.org/breweries
 
 class Brewfinder
