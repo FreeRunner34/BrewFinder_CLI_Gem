@@ -27,6 +27,15 @@ class Brewery
   def self.count 
       @@all.size
   end 
+  
+    def micro_breweries
+    Brewery.all.select do |b|
+        if b.brewery_type == "micro"
+            puts b.name
+        end 
+    end 
+  end 
+
 end 
 
 # id
